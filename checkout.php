@@ -108,7 +108,7 @@
 										Create Account?
 									</label>
 									<div class="caption">
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+										<p>Create an account with Madini to get customized construction experience from our experts and authentic building materials.</p>
 										<input class="input" type="password" name="password" placeholder="Enter Your Password">
 									</div>
 								</div>
@@ -125,7 +125,7 @@
 								<input type="checkbox" id="shiping-address">
 								<label for="shiping-address">
 									<span></span>
-									Ship to a diffrent address?
+									Ship to a different address?
 								</label>
 								<div class="caption">
 									<div class="form-group">
@@ -177,11 +177,11 @@
 							<div class="order-products">
 								<div class="order-col">
 									<div>1x Product Name Goes Here</div>
-									<div>$980.00</div>
+									<div>UGX98,000</div>
 								</div>
 								<div class="order-col">
 									<div>2x Product Name Goes Here</div>
-									<div>$980.00</div>
+									<div>UGX 98,000</div>
 								</div>
 							</div>
 							<div class="order-col">
@@ -190,7 +190,7 @@
 							</div>
 							<div class="order-col">
 								<div><strong>TOTAL</strong></div>
-								<div><strong class="order-total">$2940.00</strong></div>
+								<div><strong class="order-total">UGX 294,000</strong></div>
 							</div>
 						</div>
 						<div class="payment-method">
@@ -201,7 +201,7 @@
 									Direct Bank Transfer
 								</label>
 								<div class="caption">
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+									<p>We accept payments from authroized partnering banks online</p>
 								</div>
 							</div>
 							<div class="input-radio">
@@ -211,7 +211,7 @@
 									Cheque Payment
 								</label>
 								<div class="caption">
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+									<p>We accept cheques from banks in Uganda and abroad</p>
 								</div>
 							</div>
 							<div class="input-radio">
@@ -221,7 +221,7 @@
 									Paypal System
 								</label>
 								<div class="caption">
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+									<p>Pay us using paypal online aggregation</p>
 								</div>
 							</div>
 						</div>

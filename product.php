@@ -122,7 +122,7 @@
                                 </div>
                             </div> -->
                             <button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i> Buy Now</button>
-                            <button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i> add to cart</button>
+                            <button class="add-to-cart-btn"  ><i class="fa fa-shopping-cart" ></i> add to cart</button>
                         </div>
 
 
@@ -233,12 +233,9 @@
                             <div id="tab1" class="tab-pane fade in active">
                                 <div class="row">
                                     <div class="col-md-12">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                                            non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                        <p>
+                                            <!-- take about sand as a construction material -->
+                                           We have the best granular sand for your building needs both for making cementing and your building needs. Our sand comes from Lwera mines and is of the best quality. We have it at various measurements and delivery is on demand and by booking.
                                         </p>
                                     </div>
                                 </div>
@@ -249,12 +246,13 @@
                             <div id="tab2" class="tab-pane fade in">
                                 <div class="row">
                                     <div class="col-md-12">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                                            non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                        <p>
+                                            <ul>
+                                                <li>Granular size: 25mm</li>
+                                                <li>Source: Lwera Masaka</li>
+                                                <li>Delivery: On demand</li>
+                                                <li>Booking: Required</li>
+                                            </ul>
                                         </p>
                                     </div>
                                 </div>
@@ -354,8 +352,8 @@
                                             <ul class="reviews">
                                                 <li>
                                                     <div class="review-heading">
-                                                        <h5 class="name">John</h5>
-                                                        <p class="date">27 DEC 2018, 8:0 PM</p>
+                                                        <h5 class="name">Nicholas Katende</h5>
+                                                        <p class="date">12th, Apr 2024, 7:12 AM</p>
                                                         <div class="review-rating">
                                                             <i class="fa fa-star"></i>
                                                             <i class="fa fa-star"></i>
@@ -365,15 +363,13 @@
                                                         </div>
                                                     </div>
                                                     <div class="review-body">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                                                            do eiusmod tempor incididunt ut labore et dolore magna
-                                                            aliqua</p>
+                                                        <p>Sand was delivered right on time, highly recommended.</p>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class="review-heading">
-                                                        <h5 class="name">John</h5>
-                                                        <p class="date">27 DEC 2018, 8:0 PM</p>
+                                                        <h5 class="name">Bruce </h5>
+                                                        <p class="date">4th Jan 2024, 8:30 PM</p>
                                                         <div class="review-rating">
                                                             <i class="fa fa-star"></i>
                                                             <i class="fa fa-star"></i>
@@ -383,15 +379,15 @@
                                                         </div>
                                                     </div>
                                                     <div class="review-body">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                                                            do eiusmod tempor incididunt ut labore et dolore magna
-                                                            aliqua</p>
+                                                        <p>
+                                                            They offered me good buiding advice, the team has great experts, they helped guide me on quality building standards
+                                                        </p>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class="review-heading">
-                                                        <h5 class="name">John</h5>
-                                                        <p class="date">27 DEC 2018, 8:0 PM</p>
+                                                        <h5 class="name">Wogute David Samuel</h5>
+                                                        <p class="date">13th Jun 2023, 8:10 PM</p>
                                                         <div class="review-rating">
                                                             <i class="fa fa-star"></i>
                                                             <i class="fa fa-star"></i>
@@ -401,9 +397,10 @@
                                                         </div>
                                                     </div>
                                                     <div class="review-body">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                                                            do eiusmod tempor incididunt ut labore et dolore magna
-                                                            aliqua</p>
+                                                        <p>
+                                                            I was able to get the best sand for my building needs, the team was very helpful and the delivery was on time.
+                                                            I will surely be using them for all my building needs and highly recommmend them.
+                                                        </p>
                                                     </div>
                                                 </li>
                                             </ul>

@@ -149,7 +149,7 @@
 }
 
 .container {
-    margin-bottom: -16.5px;
+    /* margin-bottom: -16.5px; */
 }
 
 .header-search {
@@ -169,6 +169,8 @@
     border: 1px solid #ccc;
     border-radius: 30px;
     margin-left: 8%;
+    padding-left: 20%;
+    
     /* Add curved corners */
     /* height: 2rem; */
     /* Set input height */
