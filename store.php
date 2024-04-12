@@ -36,31 +36,10 @@
 
     </head>
 	<body>
+
+	<?php include 'header.php'; ?>
 		
 
-		<!-- NAVIGATION -->
-		<nav id="navigation">
-			<!-- container -->
-			<div class="container">
-				<!-- responsive-nav -->
-				<div id="responsive-nav">
-					<!-- NAV -->
-					<ul class="main-nav nav navbar-nav">
-						<li class="active"><a href="#">Home</a></li>
-						<li><a href="#">Hot Deals</a></li>
-						<li><a href="#">Categories</a></li>
-						<li><a href="#">Laptops</a></li>
-						<li><a href="#">Smartphones</a></li>
-						<li><a href="#">Cameras</a></li>
-						<li><a href="#">Accessories</a></li>
-					</ul>
-					<!-- /NAV -->
-				</div>
-				<!-- /responsive-nav -->
-			</div>
-			<!-- /container -->
-		</nav>
-		<!-- /NAVIGATION -->
 
 		<!-- BREADCRUMB -->
 		<div id="breadcrumb" class="section">
@@ -72,8 +51,8 @@
 						<ul class="breadcrumb-tree">
 							<li><a href="#">Home</a></li>
 							<li><a href="#">All Categories</a></li>
-							<li><a href="#">Accessories</a></li>
-							<li class="active">Headphones (227,490 Results)</li>
+							<!-- <li><a href="#">Accessories</a></li>
+							<li class="active">Headphones (227,490 Results)</li> -->
 						</ul>
 					</div>
 				</div>
@@ -234,7 +213,7 @@
 							<h3 class="aside-title">Top selling</h3>
 							<div class="product-widget">
 								<div class="product-img">
-									<img src="./img/product01.png" alt="">
+									<img src="./img/download.jpeg" alt="">
 								</div>
 								<div class="product-body">
 									<p class="product-category">Category</p>
@@ -245,7 +224,7 @@
 
 							<div class="product-widget">
 								<div class="product-img">
-									<img src="./img/product02.png" alt="">
+									<img src="./img/download.jpeg" alt="">
 								</div>
 								<div class="product-body">
 									<p class="product-category">Category</p>
@@ -256,7 +235,7 @@
 
 							<div class="product-widget">
 								<div class="product-img">
-									<img src="./img/product03.png" alt="">
+									<img src="./img/download.jpeg" alt="">
 								</div>
 								<div class="product-body">
 									<p class="product-category">Category</p>
@@ -303,7 +282,7 @@
 							<div class="col-md-4 col-xs-6">
 								<div class="product">
 									<div class="product-img">
-										<img src="./img/product01.png" alt="">
+										<img src="./img/download.jpeg" alt="">
 										<div class="product-label">
 											<span class="sale">-30%</span>
 											<span class="new">NEW</span>
@@ -337,7 +316,7 @@
 							<div class="col-md-4 col-xs-6">
 								<div class="product">
 									<div class="product-img">
-										<img src="./img/product02.png" alt="">
+										<img src="./img/download.jpeg" alt="">
 										<div class="product-label">
 											<span class="new">NEW</span>
 										</div>
@@ -372,7 +351,7 @@
 							<div class="col-md-4 col-xs-6">
 								<div class="product">
 									<div class="product-img">
-										<img src="./img/product03.png" alt="">
+										<img src="./img/download.jpeg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -399,7 +378,7 @@
 							<div class="col-md-4 col-xs-6">
 								<div class="product">
 									<div class="product-img">
-										<img src="./img/product04.png" alt="">
+										<img src="./img/download.jpeg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -426,7 +405,7 @@
 							<div class="col-md-4 col-xs-6">
 								<div class="product">
 									<div class="product-img">
-										<img src="./img/product05.png" alt="">
+										<img src="./img/download.jpeg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -451,7 +430,7 @@
 							<div class="col-md-4 col-xs-6">
 								<div class="product">
 									<div class="product-img">
-										<img src="./img/product06.png" alt="">
+										<img src="./img/download.jpeg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -483,7 +462,7 @@
 							<div class="col-md-4 col-xs-6">
 								<div class="product">
 									<div class="product-img">
-										<img src="./img/product07.png" alt="">
+										<img src="./img/download.jpeg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -513,7 +492,7 @@
 							<div class="col-md-4 col-xs-6">
 								<div class="product">
 									<div class="product-img">
-										<img src="./img/product08.png" alt="">
+										<img src="./img/download.jpeg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -540,7 +519,7 @@
 							<div class="col-md-4 col-xs-6">
 								<div class="product">
 									<div class="product-img">
-										<img src="./img/product09.png" alt="">
+										<img src="./img/download.jpeg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -619,6 +598,9 @@
 			<!-- /container -->
 		</div>
 		<!-- /NEWSLETTER -->
+
+		<!-- FOOTER -->
+		<?php include 'footer.php'; ?>
 
 
 		<!-- jQuery Plugins -->

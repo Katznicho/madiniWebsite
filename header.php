@@ -1,10 +1,12 @@
 <header class="header" style="display: flex;">
+
+
     <img src="./img/logo.jpg" alt="Logo" class="logo">
-    <div class="info-container" style="">
+    <div class="info-container header-links pull-right" style="">
         <!-- <i class="fa fa-map-marker"></i> -->
         <img src="./img/delivery_icon.jpg" alt="" style="width: 2rem;" class="micon">
         <!-- <p>Delivery</p> -->
-        <div>
+        <div class="header-links pull-middle">
 
             <p style="font-weight: 200;">Delivery</p>
 
@@ -36,17 +38,17 @@
             <ul class="main-nav nav  navbar-nav" style="text-align: center">
                 <li class="active">
                     <!-- <i class="fa fa-home fa-2x"></i> -->
-                    <img src="./img/sand_icon.jpg" alt="" style="width: 5.5rem;" class="micon">
+                    <img src="./img/sand_icon.jpg" alt="" style="width: 4.5rem;" class="micon">
                     <a href="#" style="margin-top: 0px;">Construction</a>
                 </li>
                 <li>
                     <!-- <i class="fa fa-industry fa-2x"></i> -->
-                    <img src="./img/industry_icon.jpg" alt="" style="width: 5.5rem;" class="micon">
+                    <img src="./img/industry_icon.jpg" alt="" style="width: 4.5rem;" class="micon">
                     <a href="#" style="font-weight: lighter;">Industry</a>
                 </li>
                 <li>
                     <!-- <i class="fa fa-diamond fa-2x"></i> -->
-                    <img src="./img/precious_icon.jpg" alt="" style="width: 3.4rem;" class="micon">
+                    <img src="./img/precious_icon.jpg" alt="" style="width: 2.4rem;" class="micon">
                     <a href="#" style="font-weight: lighter;">Precious</a>
                 </li>
 
@@ -112,6 +114,15 @@
                 <ul>
                     <!-- /NAV -->
         </div>
+
+        <!-- Menu Toogle -->
+        <!-- <div class="menu-toggle">
+            <a href="#">
+                <i class="fa fa-bars"></i>
+                <span>Menu</span>
+            </a>
+        </div> -->
+        <!-- /Menu Toogle -->
     </div>
 </nav>
 
@@ -214,6 +225,7 @@
         justify-content: space-between;
         align-items: left;
     }
+
     .responsive-nav {
         display: flex;
         flex-direction: column;
@@ -222,6 +234,7 @@
         padding: 0px 0px;
         margin: 0px 0px;
     }
+
     .logo {
         width: 5rem;
         height: auto;
@@ -240,6 +253,7 @@
 
 /* for smaller screens remove margin right on user info */
 @media screen and (max-width: 768px) {
+
     .info-container,
     .user-info {
         margin-right: 0;
@@ -264,7 +278,7 @@
     /* Vertically center content */
     padding: 5px 10px;
     height: 5rem;
-    width: 8rem ;
+    width: 8rem;
     /* Add some padding */
     border: 2px solid #ddd;
     /* Add a border on right and bottom */
