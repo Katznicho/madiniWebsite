@@ -38,7 +38,7 @@
             <ul class="main-nav nav  navbar-nav" style="text-align: center">
                 <li class="active">
                     <!-- <i class="fa fa-home fa-2x"></i> -->
-                    <img src="./img/sand_icon.jpg" alt="" style="width: 4.5rem;" class="micon">
+                    <img src="./img/sand_icon.jpg" alt="" style="width: 3.7rem;" class="micon">
                     <a href="#" style="margin-top: 0px;">Construction</a>
                 </li>
                 <li>
@@ -48,7 +48,7 @@
                 </li>
                 <li>
                     <!-- <i class="fa fa-diamond fa-2x"></i> -->
-                    <img src="./img/precious_icon.jpg" alt="" style="width: 2.4rem;" class="micon">
+                    <img src="./img/precious_icon.jpg" alt="" style="width: 2.8rem;" class="micon">
                     <a href="#" style="font-weight: lighter;">Precious</a>
                 </li>
 
@@ -116,9 +116,9 @@
         </div>
 
         <!-- Menu Toogle -->
-        <!-- <div class="menu-toggle">
-            <a href="#">
-                <i class="fa fa-bars"></i>
+        <!-- <div class="menu-toggle" >
+            <a href="#"  >
+                <i class="fa fa-bars" style="color: black !important;"></i>
                 <span>Menu</span>
             </a>
         </div> -->
@@ -144,6 +144,14 @@
     /* Distribute elements evenly */
 }
 
+#navigation{
+    
+}
+
+.container {
+    margin-bottom: -16.5px;
+}
+
 .header-search {
     position: relative;
     /* Needed for button positioning */
@@ -156,12 +164,13 @@
     /* Makes the input take full width */
     /* width: 100%; */
     /* Fills remaining space in parent */
-    padding: 10px 10px 10px 10px;
+    /* padding: 10px 10px; */
     /* Adjust padding as needed */
     border: 1px solid #ccc;
     border-radius: 30px;
+    margin-left: 8%;
     /* Add curved corners */
-    height: 2rem;
+    /* height: 2rem; */
     /* Set input height */
 }
 
@@ -169,7 +178,7 @@
     position: absolute;
     /* Positions button inside input */
     top: 0;
-    right: 10px;
+    right: 3px;
     /* Adjust right padding for icon placement */
     bottom: 0;
     padding: 0;
@@ -182,10 +191,10 @@
 .m-search-icon {
     /* fill: #ccc; */
     /* Change color as needed */
-    width: 14px;
+    width: 0 !important;
     position: relative;
     height: 14px;
-    /* margin-right: 2rem; */
+    margin-right: 0 !important;
     color: black;
 }
 
@@ -196,8 +205,9 @@
     /* Distribute space evenly */
     align-items: center;
     /* Align vertically */
-    padding: 30px 60px;
+    padding: 20px 50px;
     background-color: white;
+    
 }
 
 /* hr {
@@ -216,7 +226,7 @@
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 
     .header {
         padding: 10px 10px;

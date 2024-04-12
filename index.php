@@ -389,7 +389,9 @@
 <style>
 /* Search bar */
 
-.section {}
+.section {
+    /* margin-top: -4px; */
+}
 
 .product {}
 
